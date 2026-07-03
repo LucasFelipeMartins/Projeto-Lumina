@@ -14,7 +14,7 @@ O grande diferencial arquitetural planejado é a **Gestão Híbrida**: o sistema
 
 ## Estrutura do Repositório
 
-* `docs/uml/` - Contém todos os diagramas arquiteturais e comportamentais gerados para o projeto.
+* `Diagramas` - Contém todos os diagramas arquiteturais e comportamentais gerados para o projeto.
 * `docs/prototipos/` - Telas, wireframes e fluxos de navegação (UI/UX).
 * `docs/metricas/` - Relatórios de estimativa de esforço e tamanho do software.
 
