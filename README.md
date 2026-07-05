@@ -16,6 +16,7 @@ O grande diferencial arquitetural planejado é a **Gestão Híbrida**: o sistema
 
 * `Diagramas` - Contém todos os diagramas arquiteturais e comportamentais gerados para o projeto.
 * `PrototipacaoInterface` - Telas, wireframes e fluxos de navegação (UI/UX).
+* ` docs/metricas/ ` - Relatórios de estimativa de esforço e tamanho do software.
 
 ## Engenharia de Software e UML
 
